@@ -1,0 +1,17 @@
+{
+  "id": "./?app=mlshs-blitz-y10",
+  "name": "Year 10 Music Theory Blitz",
+  "short_name": "Theory Blitz 10",
+  "description": "Interactive Year 10 (ATAR-level) music theory: notate on the stave, answer, and track your score per section.",
+  "start_url": "./?app=mlshs-blitz-y10",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#141414",
+  "theme_color": "#141414",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
